@@ -1,6 +1,6 @@
 # Arkanoid Game  
 1. [Introduction](#introduction)
-2. [Installation:](#installation)
+2. [Installation](#installation)
 
 
 ## Introduction
@@ -14,11 +14,11 @@ The game is implemented in Java using OOP principles:
 * keep open/closed principle states.
 * Working with GUI.
 
-## Dependencies:
+## Dependencies
 * Windows / Linux / macOS
 * Git
 
-## Installation:
+## Installation
 1. Clone the repository:  
     ```
     $ git clone https://github.com/eyalcohen308/Arkanoid.git
