@@ -27,6 +27,7 @@ The game is implemented in Java using OOP principles:
     ```
 2. run this commands:
     ```
-    $ make compile
+    $ make
+    $ make jar
     $ make run
     ```
