@@ -23,7 +23,7 @@ The game is implemented in Java using OOP principles:
 ## Installation
 1. Clone the repository:  
     ```
-    $ git clone https://github.com/tomershay100
+    $ git clone https://github.com/tomershay100/Arkanoid.git
     ```
 2. run this commands:
     ```
