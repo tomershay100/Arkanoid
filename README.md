@@ -1,6 +1,7 @@
 # Arkanoid Game  
 1. [Introduction](#introduction)
-2. [Installation](#installation)
+2. [Dependencies](#dependencies)  
+3. [Installation](#installation)
 
 
 ## Introduction
