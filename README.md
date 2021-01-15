@@ -5,7 +5,7 @@
 
 
 ## Introduction
-As part of the Intro to OOP course we were asked to implement a version of the old and familiar Arkanoid Game
+As part of the Intro to OOP course we were asked to implement a version of the old and familiar Arkanoid game.
 The game contains stages with increasing difficulty levels, varied backgrounds and some audio.
 The game is implemented in Java using OOP principles:
 * Use of polymorphism and inheritance.
