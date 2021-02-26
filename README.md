@@ -31,3 +31,4 @@ The game is implemented in Java using OOP principles:
     $ make jar
     $ make run
     ```
+you can either download and run the Arkanoid.jar
